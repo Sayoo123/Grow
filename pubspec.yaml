@@ -62,6 +62,7 @@ flutter:
   assets:
     - assets/images/Rectangle_2.png
     - assets/images/Rectangle_1.png
+    - assets/images/logo.png
   
 
   # An image asset can refer to one or more resolution-specific "variants", see
@@ -79,6 +80,9 @@ flutter:
     - family: IBM
       fonts:
         - asset: assets/fonts/IBMPlexSans-Bold.ttf
+    - family: IBM_Medium
+      fonts:
+        - asset: assets/fonts/IBMPlexSans-Medium.ttf
         
   #
   # For details regarding fonts from package dependencies,
